@@ -18,7 +18,7 @@ The dataset we found from Kaggle was largely cleaned before we got a chance to u
 ### Analysis Phase
 We knew we wanted to use a classification model for the machine learning aspect because we were predicting a discrete outcome: whether a patient has a heart
 disease or not. We tested or data with three different models and noticed that the Logistic Regression model had the highest accuracy score. In addition, we thought 
-Logistic Regression would be the most viable because of the relatively small size of the dataset and its number of features. Lastly, Logistic Regression was chosen over the Support Vector Machine because SVM is more accomodating to outliers, which is not ideal for our purposes.
+Logistic Regression would be more viable than the Deep Learning model because of the relatively small size of the dataset and its number of features. Lastly, Logistic Regression was chosen over the Support Vector Machine because SVM is more accommodating to outliers, which is not ideal for our purposes.
 ### Technologies, Languages, Tools, and Algorithms Used
 We used a variety of tools, languages, technologies and algorithms to accomplish our task. We used Jupyter Notebook and Pandas to load our dataset into a dataframe in order to look at and clean the data. For the machine learning aspect, we used a handful of sklearn modules such as train_test_split, StandardScaler, OneHotEncoder, accuracy_score, LogisticRegression, and SVC. In addition, we used Tensorflow. Lastly, we used mongoDB for our database and Tableau to create the visualizations.
 
