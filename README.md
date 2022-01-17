@@ -1,7 +1,5 @@
 # Capstone_Project
 A shared repo
-## Communication Protocol
-We established a group chat in Slack so that we can maintain constant contact with each other. We use this to share links, ideas, and share comments and concerns. In addition, we have a shared google slides link that we use to brainstorm ideas and answer questions regarding the rubric.
 ## Link to Google Slides Presentation
 https://docs.google.com/presentation/d/1DSq2EQ9AHUXf6Mmc_AwmwmjLqB2UXpBOd--rOGcSHMQ/edit#slide=id.p
 ## Link to Dashboard Storyboard
