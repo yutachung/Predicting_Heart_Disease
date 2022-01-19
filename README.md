@@ -1,9 +1,9 @@
 # Capstone_Project
 A shared repo
-## Link to Google Slides Presentation
+## Google Slides Presentation
 https://docs.google.com/presentation/d/1DSq2EQ9AHUXf6Mmc_AwmwmjLqB2UXpBOd--rOGcSHMQ/edit#slide=id.p
-## Link to Dashboard Storyboard
-https://docs.google.com/presentation/d/1UK56Jez0KdxAYfoWfuLC29CE7NG9JVKwFbyc3mDrs2c/edit#slide=id.p
+## Link to Dashboard
+https://public.tableau.com/app/profile/yuta.chung.umemoto/viz/PredictingHeartDisease/Dashboard1?publish=yes
 ## Project Outline
 ### Purpose
 For our analysis, we are analyzing a dataset of potential factors that can lead to cardiovascular disease. We chose this topic because it could potentially help people. We wanted to do something that felt important and could be a benefit to society. Heart disease is a serious issue that potentially affects a large number of people. In fact, Cardiovascular diseases (CVDs) are the number 1 cause of death globally, taking an estimated 17.9 million lives each year, which accounts for 31% of all deaths worldwide. People who are at risk need early detection and management. This where a machine learning model can be greatly beneficial. We hope that our analysis and observations can at least help with this issue.
