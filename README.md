@@ -20,6 +20,7 @@ disease or not. We tested or data with three different models and noticed that t
 Logistic Regression would be more viable than the Deep Learning model because of the relatively small size of the dataset and its number of features. Lastly, Logistic Regression was chosen over the Support Vector Machine because SVM is more accommodating to outliers, which is not ideal for our purposes.\
 ![train_test](https://user-images.githubusercontent.com/87148177/152889115-02f3e098-a322-4522-beb2-3df0e40537f9.png)
 ![logistic_regression](https://user-images.githubusercontent.com/87148177/152889333-b02d28aa-39bb-4c29-a4a1-aa93ed2db124.png)
+![confusion_matrix](https://user-images.githubusercontent.com/87148177/152889750-70977def-7ca8-4cd4-a667-1e8e8c6a12b5.png)
 ### Technologies, Languages, Tools, and Algorithms Used
 We used a variety of tools, languages, technologies and algorithms to accomplish our task. We used Jupyter Notebook and Pandas to load our dataset into a dataframe in order to look at and clean the data. For the machine learning aspect, we used a handful of sklearn modules such as train_test_split, StandardScaler, OneHotEncoder, accuracy_score, LogisticRegression, and SVC. In addition, we used Tensorflow. Lastly, we used mongoDB for our database and Tableau to create the visualizations.
 ### Machine Learning Model
