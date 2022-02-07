@@ -32,6 +32,7 @@ We found that the three most significant predictive features in the dataset were
 ![feature_correlation](https://user-images.githubusercontent.com/87148177/152890398-853789b5-83d7-4939-acbe-09a73e1fdb8a.png)
 ![results1](https://user-images.githubusercontent.com/87148177/152890966-1516ffae-ad50-4865-86e8-0bda12a1ffe8.png)
 ![results2](https://user-images.githubusercontent.com/87148177/152891313-8b238e55-fa3d-4ddb-9592-db8812145fb3.png)
+![blood_sugar](https://user-images.githubusercontent.com/87148177/152891453-62f300d0-7fb8-4619-9afa-a721fc862a18.png)
 ### Recommendation for Future Analysis
 If we could, we would want to redo our analysis later on when there is a larger dataset available. Currently, our dataset is the larger of its kind that is available for research. However, if we could use a larger dataset we would then be able to use a more traditional 80:20 split when using machine learning models. This would most likely give us more consistent and reliable results. It could also give us a higher accuracy score, which would be hugely beneficial in the medical field. Also, if more features were present in the dataset we would be able to use deep neural networks to do our analysis.
 ### What We Would Do Differently
